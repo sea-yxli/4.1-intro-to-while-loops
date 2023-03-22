@@ -1,0 +1,52 @@
+# Create a loop that will count from:
+
+# 0 to 10 by 1.
+count = 0
+while count <= 10:
+  print(count)
+  count += 1
+count = 10
+# 10 to 0 by 1.
+while count >= 0:
+  print(count)
+  count -= 1
+# from 491 to 586 by 5.
+count = 491
+while count <= 586:
+  print(count)
+  count += 5
+# from 124 to 810 by 14.
+count = 124
+while count <= 810:
+  print(count)
+  count += 14
+# from -233 to -113 by 4.
+count = -233
+while count <= -113:
+  print(count)
+  count += 4
+# from 215 to 300 by 5.
+count = 215
+while count <= 300:
+  print(count)
+  count += 5
+# from -310 to -94 by 8.
+count = -310
+while count <= -94:
+  print(count)
+  count += 8
+# from -476 to -410 by 3.
+count = -476
+while count <= -410:
+  print(count)
+  count += 3
+# from -327 to -147 by 9.
+count = -327
+while count <= -147:
+  print(count)
+  count += 9
+# from 484 to 1024 by 18.
+count = 484
+while count <= 1024:
+  print(count)
+  count += 18
